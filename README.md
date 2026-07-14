@@ -1,6 +1,8 @@
 # Season Sense
 SeasonSense is a modern weather dashboard designed to provide more than just the weather forecast. It combines weather conditions with environmental information such as UV index, air quality, moon phases, tides, pollen, and other seasonal insights to help users better understand the world around them!
 
+Built with <3 by Jonathon Kennedy
+
 # Why I Built SeasonSense
 
 SeasonSense began as a way to hone my skills in React, JavaScript, CSS, API integration, and responsive web design while building something I would genuinely use. Rather than just creating another basic weather application, my goal is to gradually evolve it into a weather companion that provides meaningful environmental information alongside a few fun seasonal features!
@@ -50,5 +52,3 @@ Version 1.1 - "UI Polish":
 - Sunrise and Sunset
 - 7 day forecast
 - Hourly forecast
-
-Built with <3 by Jonathon Kennedy
