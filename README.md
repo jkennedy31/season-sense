@@ -45,7 +45,7 @@ Version 1.1 - "UI Polish":
 - Pollen forecast
 - Seasonal themes
     - Christmas and Halloween layout and/or stylistic choices
-        - - Werewolf Risk *(Purely for entertainment. SeasonSense does not accept responsibility for any unexpected lycanthrope encounters.)*
+        - Werewolf Risk *(Purely for entertainment. SeasonSense does not accept responsibility for any unexpected lycanthrope encounters.)*
 - Outdoor activity suggestions
 - Sunrise and Sunset
 - 7 day forecast
